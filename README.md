@@ -1,4 +1,4 @@
-# Perplexity Clone
+# mini-perplexity
 
 A minimal web-based conversational search engine that combines web search capabilities (via Exa AI API) with AI-powered answer generation (via Mistral API). Get synthesized answers with source citations in a clean, modern interface.
 
