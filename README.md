@@ -327,4 +327,4 @@ For issues or questions:
 
 ---
 
-Built with ❤️ using Next.js, Exa AI, and Mistral AI
+Built with using Next.js, Exa AI, and Mistral AI
